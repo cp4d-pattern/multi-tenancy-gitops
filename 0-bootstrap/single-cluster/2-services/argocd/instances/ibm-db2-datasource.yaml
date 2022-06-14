@@ -17,7 +17,6 @@ spec:
   project: services
   source:
     path: instances/ibm-db2-datasource
-    repoURL: https://github.com/cp4d-pattern-b/multi-tenancy-gitops-services.git
   syncPolicy:
     automated:
       prune: true
