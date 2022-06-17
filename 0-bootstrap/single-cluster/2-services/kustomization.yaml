@@ -41,7 +41,7 @@ resources:
 #- argocd/instances/ibm-cpd-aespark-instance.yaml
 
 ### CP4D Healthcare Pattern
-#- argocd/instances/ibm-cp4d-healthcare-demo.yaml
+- argocd/instances/ibm-cp4d-healthcare-demo.yaml
 
 ## Cloud Pak for Security
 #- argocd/operators/ibm-cp4s-operator.yaml
